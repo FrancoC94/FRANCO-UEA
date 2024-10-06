@@ -1,6 +1,6 @@
 #  Diccionario
 informacion_personal = {
-    "nombre": "Jared Franco",
+    "nombre": " Pedro Alvarado",
     "edad": 27,
     "ciudad": "Quevedo",
     "profesion": "Ingeniero"
